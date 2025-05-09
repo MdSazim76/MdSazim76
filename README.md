@@ -5,8 +5,8 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 💫 About Me:
-- 🔭 I’m currently working on Pharmacy Management System
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on ??
+- 🌱 I’m currently learning Java, Python
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with your work
 - ⚡ Fun fact
